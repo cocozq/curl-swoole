@@ -1,6 +1,6 @@
 <?php
 
-namespace yumufeng\curl;
+namespace cocozq\curl;
 
 class Curl
 {

@@ -6,7 +6,7 @@
  * Time: 10:32
  */
 
-use yumufeng\curl\Curl;
+use cocozq\curl\Curl;
 
 error_reporting(E_ALL);
 require './vendor/autoload.php';
